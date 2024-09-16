@@ -28,5 +28,18 @@ Primeiramente, vamos iniciar criando os recursos necessários.
 
 ![2 Criação Grupo de Recursos](https://github.com/user-attachments/assets/3957e66d-a19f-4578-8285-c0c6756c5821)
 
+#### 3 - 
+
+![2 Criação Grupo de Recursos](https://github.com/user-attachments/assets/8bc85d9b-86c9-45fd-926f-88e6babd7483)
+
+### Criação do Serviço de Aplicativo
+
+#### 1 - 
+
+![1 - Criando Serviço de Aplicativo](https://github.com/user-attachments/assets/96b7ab9e-608b-424d-b932-86c9bd4247c5)
+
+
+
+
 
 
