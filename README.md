@@ -24,6 +24,6 @@ Primeiramente, vamos iniciar criando os recursos necessários.
 
 ##### 1 - Entre nesse link para criar o grupo de recursos: https://portal.azure.com/#browse/resourcegroups (Tem que estar autenticado no portal da Azure)
 
-#### 2 - ![grupoRecurso]([https://drive.google.com/uc?export=view&id=12MuNaYb4Sd3Tm61eMLLRrcGzBlJQpTd8](https://drive.google.com/file/d/13paEBtCahnCFUbjav_Tqo26AlPWLbKho/view?usp=drive_link))
+#### 2 - ![grupoRecurso](https://drive.google.com/file/d/13paEBtCahnCFUbjav_Tqo26AlPWLbKho/view?usp=drive_link))
 
 
