@@ -95,6 +95,16 @@ Link para Clonar: https://github.com/downxzzz/InScreeningApi-Devops
 
 ### 6 -
 
+![6 - Clonando](https://github.com/user-attachments/assets/175fb0e9-9bad-4a76-b961-af7e27c89478)
+
+### 7 -
+
+
+### 8 -
+
+
+### 6 -
+
 
 
 
