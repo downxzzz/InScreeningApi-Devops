@@ -20,21 +20,21 @@ Bem-vindo ao InScreening! 🚀
 
 Primeiramente, vamos iniciar criando os recursos necessários.
 
-### Criação do grupo de recurso
+## Criação do grupo de recurso
 
-##### 1 - Entre nesse link para criar o grupo de recursos: https://portal.azure.com/#browse/resourcegroups (Tem que estar autenticado no portal da Azure)
+### 1 - Entre nesse link para criar o grupo de recursos: https://portal.azure.com/#browse/resourcegroups (Tem que estar autenticado no portal da Azure)
 
-#### 2 -
+### 2 -
 
 ![2 Criação Grupo de Recursos](https://github.com/user-attachments/assets/3957e66d-a19f-4578-8285-c0c6756c5821)
 
-#### 3 - 
+### 3 - 
 
 ![2 Criação Grupo de Recursos](https://github.com/user-attachments/assets/8bc85d9b-86c9-45fd-926f-88e6babd7483)
 
-### Criação do Serviço de Aplicativo
+## Criação do Serviço de Aplicativo
 
-#### 1 - 
+### 1 - 
 
 ![1 - Criando Serviço de Aplicativo](https://github.com/user-attachments/assets/96b7ab9e-608b-424d-b932-86c9bd4247c5)
 
@@ -69,9 +69,34 @@ Primeiramente, vamos iniciar criando os recursos necessários.
 ![8 - Criando Serviço de Aplicativo](https://github.com/user-attachments/assets/7ac992ae-d700-4965-a326-f8f115204c97)
 
 
-### Clonando Repositório para subir na nuvem
+## Clonando Repositório para subir na nuvem
 
+
+### 1 -
 ![1 - Clonando](https://github.com/user-attachments/assets/aaecaa16-e901-47f6-a6f7-f0e2f60b3dab)
+
+Link para Clonar: https://github.com/downxzzz/InScreeningApi-Devops
+
+### 2 -
+
+![2 - Clonando](https://github.com/user-attachments/assets/5a55bfff-b6a5-47e7-b360-76f398ef5b3f)
+
+### 3 -
+
+![3 - Clonando](https://github.com/user-attachments/assets/157bccf9-b7c2-4ac4-973d-4bad4778033e)
+
+### 4 -
+
+![4 - Clonando](https://github.com/user-attachments/assets/3489df50-ff50-437b-b180-6a5d6b108f8d)
+
+### 5 -
+
+![5 - Clonando](https://github.com/user-attachments/assets/1bb36353-acd9-4576-8817-8d735da7d0f7)
+
+### 6 -
+
+
+
 
 
 
