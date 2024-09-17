@@ -69,6 +69,12 @@ Primeiramente, vamos iniciar criando os recursos necessários.
 ![8 - Criando Serviço de Aplicativo](https://github.com/user-attachments/assets/7ac992ae-d700-4965-a326-f8f115204c97)
 
 
+### Clonando Repositório para subir na nuvem
+
+![1 - Clonando](https://github.com/user-attachments/assets/aaecaa16-e901-47f6-a6f7-f0e2f60b3dab)
+
+
+
 
 
 
