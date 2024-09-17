@@ -99,15 +99,24 @@ Link para Clonar: https://github.com/downxzzz/InScreeningApi-Devops
 
 ### 7 -
 
+![7 - Clonando](https://github.com/user-attachments/assets/3c5af1d6-4415-479a-90f5-7d6a03bccfe5)
 
 ### 8 -
 
-
-### 6 -
-
+![8 - Clonando](https://github.com/user-attachments/assets/5ec78a9f-9559-45e5-9a4a-273eb3c79564)
 
 
+## Adicionando Banco de dados do C# (Migration)
 
+
+![1 - Add Banco](https://github.com/user-attachments/assets/51ca5472-4198-4f6d-bf9c-ece162c07b8c)
+
+
+
+![2 - Add Banco](https://github.com/user-attachments/assets/4691bcce-0b7a-47d2-b5c7-a161af51ded7)
+
+
+![3 - Add Banco](https://github.com/user-attachments/assets/56729031-24c8-4de2-af58-5675a3a31a98)
 
 
 
